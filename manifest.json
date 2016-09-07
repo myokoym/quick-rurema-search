@@ -1,0 +1,15 @@
+{
+
+  "manifest_version": 2,
+  "name": "quick-rurema-search",
+  "version": "0.3",
+
+  "background": {
+    "scripts": ["background.js"]
+  },
+
+  "permissions": [
+    "contextMenus"
+  ]
+
+}
